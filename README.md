@@ -4,7 +4,7 @@
 - 🎓 Especialista em Engenharia de Segurança do Trabalho
 - 📊 Graduando em Ciência de Dados pela Cruzeiro do Sul
 - 💻 Hoje atuo na área de segurança do trabalho, mas estou migrando para área de Ciência de Dados
-- 📚 Estudando Python e R
+- 📚 Estudando Python, R, SQL e PowerBI
 
 <div align="center">
   <a href="https://github.com/Leao28">
