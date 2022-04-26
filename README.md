@@ -14,7 +14,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Leao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leao-R" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png?20190118024747">
   <img align="center" alt="Leao-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Leao-R" height="30" width="40" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
 </div>
 
   ##
