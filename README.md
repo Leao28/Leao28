@@ -1,10 +1,12 @@
 ## Olá, meu nome é Henrique Leão 👋
 
 - 🎓 Engenheiro de Energia pela UnB
-- 🎓 Especialista em Engenharia de Segurança do Trabalho
+- 🎓 Especialista em Engenharia de Segurança do Trabalho pela UNIP
 - 📊 Graduando em Ciência de Dados pela Cruzeiro do Sul
-- 💻 Hoje atuo na área de segurança do trabalho, mas estou migrando para área de Ciência de Dados
+- 💼 Data Engineer Jr.
+- 💼 Professor
 - 📚 Estudando Python, R, SQL e PowerBI
+- 💭 Interesses: Data Science and Machine Learning
 
 <div align="center">
   <a href="https://github.com/Leao28">
